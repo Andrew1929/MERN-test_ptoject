@@ -1,0 +1,6 @@
+{
+    "port" : 5000,
+    "jwtKey": "anime is top",
+    "mongoUri": "mongodb+srv://andre2904030:1234qwer@cluster0.ldxiluc.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl" : "http://localhost:5000"
+}
