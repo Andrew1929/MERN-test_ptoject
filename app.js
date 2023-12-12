@@ -7,7 +7,7 @@ const path = require('path')
 const app = express();
 
 app.use(cors({
-    origin: 'http://localhost:3000',  // Змініть це на адресу вашого фронтенду
+    origin: 'http://localhost:3000', 
     credentials: true,
 }));
 
